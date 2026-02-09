@@ -1,0 +1,14 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - file.ctime
+      - formula.Untitled
+  - type: cards
+    name: View
+  - type: table
+    name: View 2
