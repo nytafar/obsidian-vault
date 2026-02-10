@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nyra 4.0.md",
+                "file": "Nyta 4.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nyra 4.0"
+              "title": "Nyta 4.0"
             }
           },
           {
@@ -274,7 +274,7 @@
   "active": "22a0c677e134c9df",
   "lastOpenFiles": [
     "Captains Log/2026-02-09.md",
-    "Nyra 4.0.md",
+    "Nyta 4.0.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/tasks-default.base",
