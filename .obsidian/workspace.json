@@ -54,12 +54,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nyta 4.0.md",
+                "file": "Su Casa forretningsplan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nyta 4.0"
+              "title": "Su Casa forretningsplan"
+            }
+          },
+          {
+            "id": "b991ae9e95e79056",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -87,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,10 +281,13 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "22a0c677e134c9df",
+  "active": "b991ae9e95e79056",
   "lastOpenFiles": [
-    "Captains Log/2026-02-09.md",
+    "Untitled.md",
+    "Su Casa forretningsplan.md",
+    "Su Casa Coffee.md",
     "Nyta 4.0.md",
+    "Captains Log/2026-02-09.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/tasks-default.base",
@@ -290,10 +303,8 @@
     "Captains Log/2026-01-19.md",
     "Konsolidert Hverdagsstruktur - Desember 25.md",
     "Untitled.base",
-    "Su Casa Coffee.md",
     "Fokus fra Kina.md",
     "'.md",
-    "Su Casa forretningsplan.md",
     "Captains Log/2025-12-08.md",
     "Captains Log/2025-11-20.md",
     "Captains Log/2025-10-31.md",
