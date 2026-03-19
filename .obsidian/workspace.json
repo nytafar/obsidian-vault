@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-03-15"
             }
+          },
+          {
+            "id": "1b624dc3c80cb7f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "564c25fbe3290faa",
+  "active": "1b624dc3c80cb7f6",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled 1.md",
