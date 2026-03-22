@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-03-15"
             }
-          },
-          {
-            "id": "1b624dc3c80cb7f6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Captains Log/2026-02-09.md",
+                "file": "Captains Log/2026-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-02-09"
+              "title": "Backlinks for 2026-03-15"
             }
           },
           {
@@ -155,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Captains Log/2026-03-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2026-03-15"
             }
           },
           {
@@ -187,9 +174,19 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "af10cb550de57995",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -219,37 +216,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1b624dc3c80cb7f6",
+  "active": "564c25fbe3290faa",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
+    "TaskNotes/Tasks/MVA.md",
+    "TaskNotes/Tasks/Bestille Vindusheis.md",
     "Captains Log/2026-03-15.md",
-    "Captains Log/Untitled.md",
-    "Su Casa Coffee.md",
-    "Su Casa forretningsplan.md",
-    "Based.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "Fokus fra Kina.md",
-    "Nyta 4.0.md",
     "Captains Log/2026-02-09.md",
+    "Captains Log/2025-10-29.md",
+    "Captains Log/2025-11-20.md",
+    "Captains Log/2025-12-08.md",
+    "Captains Log/2026-01-19.md",
+    "Captains Log/2026-02-08.md",
+    "Captains Log/2025-10-31.md",
+    "Fokus fra Kina.md",
+    "Captains Log/Untitled.md",
+    "Untitled.md",
+    "Business/Myrvann",
+    "Business/effaK",
+    "Business",
+    "Business/Nyta",
+    "Agent",
+    "Business/Nyta/Nyta 4.0.md",
+    "Business/effaK/Su Casa Coffee.md",
+    "Based.base",
+    "Untitled 1.md",
+    "Business/effaK/Su Casa forretningsplan.md",
+    "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Tasks/MVA.md",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Tasks/Bestille Vindusheis.md",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Tasks",
-    "TaskNotes/Views",
-    "TaskNotes",
-    "Captains Log/2026-02-08.md",
-    "Captains Log/2026-01-19.md",
     "Konsolidert Hverdagsstruktur - Desember 25.md",
     "'.md",
-    "Captains Log/2025-12-08.md",
-    "Captains Log/2025-11-20.md",
-    "Captains Log/2025-10-31.md",
-    "Captains Log/2025-10-29.md",
     "2025-10-29.md",
     "Welcome.md"
   ]
