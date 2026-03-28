@@ -29,3 +29,4 @@
 "event_logs:sources:opened": {"key":"sources:opened","ct":106,"first_at":1770610494262,"last_at":1774473854927,"class_name":"EventLog","event_sources":{"active-leaf-change":103,"open_source method":2,"file-open":1}},
 "event_logs:sources:created": {"key":"sources:created","ct":23,"first_at":1770610495249,"last_at":1774473857706,"class_name":"EventLog","event_sources":{"obsidian:vault.create":23}},
 "event_logs:sources:renamed": {"key":"sources:renamed","ct":41,"first_at":1770653128307,"last_at":1774473862467,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":41}},
+"event_logs:sources:created": {"key":"sources:created","ct":34,"first_at":1770610495249,"last_at":1774628434560,"class_name":"EventLog","event_sources":{"obsidian:vault.create":34}},
