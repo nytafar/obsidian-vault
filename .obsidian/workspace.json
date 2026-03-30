@@ -11,13 +11,14 @@
             "id": "564c25fbe3290faa",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Based.base",
-                "viewName": "Table"
+                "file": "Captains Log/2026-03-30.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Based"
+              "icon": "lucide-file",
+              "title": "2026-03-30"
             }
           }
         ]
@@ -215,8 +216,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ce6b8da65d96dcd6",
+  "active": "564c25fbe3290faa",
   "lastOpenFiles": [
+    "Based.base",
+    "Captains Log/2026-03-30.md",
     "Research/studies/priori2023hericium.md",
     "Research/studies/hsu2023neuroprotective.md",
     "Research/studies/_assets/priori2023hericium",
