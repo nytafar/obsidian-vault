@@ -1,0 +1,27 @@
+{
+  "jsonPaths": [
+    "Research/System/bibtex/bibtex.json"
+  ],
+  "jsonNames": [
+    ""
+  ],
+  "folderPath": "Research",
+  "includeAuthorTag": false,
+  "includeJournalTag": false,
+  "includeBibliography": true,
+  "optionalFields": "",
+  "includeAbstract": true,
+  "templatePath": "",
+  "autoAddCitations": true,
+  "autoSyncCitations": true,
+  "autoUpdateCitations": true,
+  "mergeStrategies": {},
+  "showBaseProperties": false,
+  "jsonUpdatedTimes": {
+    "Research/System/bibtex/Mitt bibliotek.json": 1774950349310,
+    "Research/System/bibtex/bibtex.json": 1774951355143
+  },
+  "inputPandocPath": "/opt/homebrew/bin/pandoc",
+  "pandocOutputPath": "Research/System",
+  "pandocArgs": "-f markdown+hard_line_breaks"
+}

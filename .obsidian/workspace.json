@@ -6,6 +6,7 @@
       {
         "id": "27f1438ff61bb499",
         "type": "tabs",
+        "dimension": 66.71974522292994,
         "children": [
           {
             "id": "564c25fbe3290faa",
@@ -25,36 +26,22 @@
             "id": "1b997aab38329141",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Research/studies/priori2023hericium.md",
-                "mode": "source",
-                "source": false
+                "file": "Studies.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "priori2023hericium"
-            }
-          },
-          {
-            "id": "57dd7383b2920efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023"
+              "icon": "lucide-table",
+              "title": "Studies"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2bdcce14158b9ebd",
         "type": "tabs",
+        "dimension": 33.28025477707006,
         "children": [
           {
             "id": "44b1b74adedb0487",
@@ -158,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "Research/Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023"
             }
           },
           {
@@ -187,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Captains Log/2026-03-15.md",
+                "file": "Research/Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-15"
+              "title": "Outline of Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023"
             }
           },
           {
@@ -272,42 +259,43 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "57dd7383b2920efb",
+  "active": "1b997aab38329141",
   "lastOpenFiles": [
-    "studies/hsu2023neuroprotective.md",
-    "studies/priori2023hericium.md",
-    "Research/Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023.md",
-    "Innboks/Brain Creamer.md",
-    "Innboks",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Tasks/Bestille Vindusheis.md",
-    "Based.base",
-    "Captains Log/2026-03-30.md",
-    "studies/_assets/priori2023hericium",
-    "studies/_assets/hsu2023neuroprotective",
-    "Captains Log/2026-03-15.md",
-    "TaskNotes/Tasks/MVA.md",
-    "Captains Log/2026-02-09.md",
-    "Captains Log/2025-10-29.md",
-    "Captains Log/2025-11-20.md",
-    "Captains Log/2025-12-08.md",
-    "Captains Log/2026-01-19.md",
-    "Captains Log/2026-02-08.md",
-    "Captains Log/2025-10-31.md",
-    "Fokus fra Kina.md",
-    "Captains Log/Untitled.md",
-    "Business/Nyta/Nyta 4.0.md",
-    "Business/effaK/Su Casa Coffee.md",
-    "Untitled 1.md",
-    "Business/effaK/Su Casa forretningsplan.md",
-    "Konsolidert Hverdagsstruktur - Desember 25.md",
-    "'.md",
-    "2025-10-29.md",
-    "Welcome.md"
+    "biblib/rootman_adults_2021/rootman_adults_2021.pdf",
+    "Research/@rootman_adults_2021.md",
+    "Untitled.md",
+    "Studies.base",
+    "Research/@unknown.md",
+    "Research/@zy_treatment_1981.md",
+    "Research/@__2009.md",
+    "Research/@baba_effects_2021.md",
+    "Research/@anuar_ameliorating_2022.md",
+    "Research/@a_ba_antibacterial_2024.md",
+    "Author/Kaoru Kinoshita.md",
+    "Research/@akiba_isolation_2020.md",
+    "Author",
+    "Neuroprotective Effects of Erinacine A on an Experimental Model of Traumatic Optic Neuropathy-Chiao-Ling Hsu 2023.md",
+    "Research/@pozzobon_anti-inflammatory_2026.md",
+    "Research/@parada_sequential_2015.md",
+    "biblib/parada_sequential_2015/parada_sequential_2015.pdf",
+    "biblib/parada_sequential_2015",
+    "Research/@liu_systemic_2015.md",
+    "biblib/liu_systemic_2015/liu_systemic_2015.pdf",
+    "biblib/liu_systemic_2015",
+    "Research/@li_chemical_2015.md",
+    "biblib/li_chemical_2015/li_chemical_2015.pdf",
+    "biblib/li_chemical_2015",
+    "Research/@komatsu_flammulin_1963.md",
+    "Research/@cilerdzic_neuroprotective_2018.md",
+    "biblib/cilerdzic_neuroprotective_2018/cilerdzic_neuroprotective_2018.pdf",
+    "biblib/cilerdzic_neuroprotective_2018",
+    "Research/@rubel_immunomodulatory_2018.md",
+    "Research/@varghese_historical_2019.md",
+    "Research/@lew_discovering_2020.md",
+    "Research/@wang_auxiliary_2020.md",
+    "Research/@kawagishi_hericium_1996.md",
+    "Research/@tian_modulating_2023.md",
+    "Research/@xu_double-blind_1985.md",
+    "Research/@ulbricht_maitake_2009.md"
   ]
 }
