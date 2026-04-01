@@ -26,13 +26,14 @@
             "id": "1b997aab38329141",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Studies.base",
-                "viewName": "Table"
+                "file": "Home Assistant/Soil Sensor Stack.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Studies"
+              "icon": "lucide-file",
+              "title": "Soil Sensor Stack"
             }
           }
         ],
@@ -226,9 +227,19 @@
               "icon": "ReferenceMapIconScroll",
               "title": "Reference Map"
             }
+          },
+          {
+            "id": "40f3277165c6bd39",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -261,10 +272,13 @@
   },
   "active": "1b997aab38329141",
   "lastOpenFiles": [
+    "Research/@tsai_preclinical_2021.md",
+    "Home Assistant/Soil Sensor Stack.md",
+    "Home Assistant",
+    "Studies.base",
     "biblib/rootman_adults_2021/rootman_adults_2021.pdf",
     "Research/@rootman_adults_2021.md",
     "Untitled.md",
-    "Studies.base",
     "Research/@unknown.md",
     "Research/@zy_treatment_1981.md",
     "Research/@__2009.md",
@@ -287,15 +301,12 @@
     "biblib/li_chemical_2015",
     "Research/@komatsu_flammulin_1963.md",
     "Research/@cilerdzic_neuroprotective_2018.md",
-    "biblib/cilerdzic_neuroprotective_2018/cilerdzic_neuroprotective_2018.pdf",
-    "biblib/cilerdzic_neuroprotective_2018",
     "Research/@rubel_immunomodulatory_2018.md",
     "Research/@varghese_historical_2019.md",
     "Research/@lew_discovering_2020.md",
     "Research/@wang_auxiliary_2020.md",
     "Research/@kawagishi_hericium_1996.md",
     "Research/@tian_modulating_2023.md",
-    "Research/@xu_double-blind_1985.md",
-    "Research/@ulbricht_maitake_2009.md"
+    "Research/@xu_double-blind_1985.md"
   ]
 }
